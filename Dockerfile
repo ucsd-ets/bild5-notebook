@@ -1,4 +1,5 @@
-FROM ucsdets/rstudio-notebook:2023.2-stable
+#FROM ucsdets/rstudio-notebook:2023.2-stable
+FROM ghcr.io/ucsd-ets/rstudio-notebook:2025.1-stable
 
 USER root
 
