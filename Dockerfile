@@ -33,6 +33,7 @@ RUN R -e "install.packages('QuantPsych', repos='http://cran.rstudio.com/')" && \
     R -e "install.packages('broom', repos='http://cran.rstudio.com/')" && \
     R -e "install.packages('ggrepel', repos='http://cran.rstudio.com/')" && \
     R -e "install.packages('palmerpenguins', repos='http://cran.rstudio.com/')" && \
+    R -e "install.packages('vegan', repos='http://cran.rstudio.com/')" && \
     R -e "update.packages(ask = FALSE, repos = 'http://cran.rstudio.com/')"
 
 # --- Deploy sentinel -------------------------------------------------------
