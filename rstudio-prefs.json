@@ -1,0 +1,40 @@
+{
+  "panes": {
+    "quadrants": [
+      "Source",
+      "Console",
+      "TabSet1",
+      "TabSet2"
+    ],
+    "tabSet1": [],
+    "tabSet2": [
+      "Files",
+      "Plots",
+      "Viewer",
+      "Help"
+    ],
+    "hiddenTabSet": [
+      "Environment",
+      "History",
+      "Connections",
+      "Build",
+      "VCS",
+      "Tutorial",
+      "Packages",
+      "Presentation"
+    ],
+    "console_left_on_top": false,
+    "console_right_on_top": false
+  },
+  "visual_markdown_editing_is_default": true,
+  "source_with_echo": true,
+  "save_workspace": "never",
+  "load_workspace": false,
+  "restore_last_project": true,
+  "restore_source_documents": true,
+  "posix_terminal_shell": "bash",
+  "show_hidden_files": false,
+  "rmd_viewer_type": "pane",
+  "shiny_viewer_type": "pane",
+  "show_last_dot_value": false
+}
