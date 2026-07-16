@@ -3,6 +3,7 @@ FROM ghcr.io/ucsd-ets/rstudio-notebook:2025.1-stable
 USER root
 
 # --- R packages installed for ALL students --------------------------------
+
 # Everything installed here goes into the image's SYSTEM library (owned by
 # root, read-only to students). This is the right place for anything the
 # course depends on, so no student ever has to install it themselves.
